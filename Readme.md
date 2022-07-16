@@ -18,8 +18,7 @@ Hope you got it how to play the interesting memory skill game.
 - [Mohammad Touseef](https://github.com/Touseef-md)
 
 ## Demo
-
-Insert gif or link to demo
+- https://touseef-md.github.io/Simon_Game_/
 
 ## 🚀 About Me
 I'm a web developer learning and exploring...
