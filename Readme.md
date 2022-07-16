@@ -7,12 +7,12 @@ Simon is an electronic game of short-term memory skills invented by Ralph H. Bae
 It is made with __HTML__, __CSS__, __Javascript__ and __Jquery__.
 
 ## How to play
-Game will start by pressing any keyboard button and one of the colours will fade out and fade.
-- You need to remember which colour faded and click on that corresponding color only otherwise you loose.
-- If you clicked the correct colour then again a randomly selected colour will fade out and fade in , now you need to remember first and the second colour , and first click the colour which occurred first and then click the second one.
+The game will start by pressing any keyboard button and one of the colours will fade out and fade.
+- You need to remember which colour faded and click on that corresponding colour only otherwise you lose.
+- If you clicked the correct colour then again a randomly selected colour will fade out and fade in, now you need to remember the first and the second colour, and first click the colour which occurred first and then click the second one.
 - If you did it correctly then again a randomly selected colour will fade out and fade in and the game continues...
 
-Hope you got it how to play the interesting memory skill game.
+Hope you got how to play the interesting memory skill game.
 
 ## Authors
 - [Mohammad Touseef](https://github.com/Touseef-md)
